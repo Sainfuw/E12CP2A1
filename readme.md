@@ -30,7 +30,7 @@
 
 - Añadir un **navbar** de *Bootstrap* al layout.
 
-    - El navbar debe contener los links a las vistas de *home*, *about* y al *index* de products.
+- El navbar debe contener los links a las vistas de *home*, *about* y al *index* de products.
 
 - Agregar las clases de *Bootstrap*, para la tabla y botones correspondientes, al *index* de **Product**.
 
